@@ -1,5 +1,3 @@
-Claro! Aqui está um exemplo de `README.md` que você pode usar para o seu projeto:
-
 ```markdown
 # Projeto GenAI
 
