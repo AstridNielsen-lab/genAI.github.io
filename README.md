@@ -5,7 +5,8 @@ Claro! Aqui está um exemplo de `README.md` que você pode usar para o seu proje
 
 ## Descrição
 
-Este projeto utiliza uma API para gerar imagens a partir de prompts fornecidos pelo usuário. Ele é desenvolvido em Python usando o framework Flask e possui uma interface web simples.
+Este projeto utiliza uma API para gerar imagens a partir de prompts fornecidos pelo usuário.
+Ele é desenvolvido em Python usando o framework Flask e possui uma interface web simples.
 
 ## Tecnologias Utilizadas
 
@@ -62,20 +63,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
 ```
-
-### Como Criar o `README.md`
-
-1. **Crie o arquivo:**
-   No seu terminal, execute:
-   ```bash
-   touch README.md
-   ```
-
-2. **Edite o arquivo:**
-   Use um editor de texto para adicionar o conteúdo acima.
-
-3. **Adicione e faça commit:**
-   ```bash
-   git add README.md
-   git commit -m "Adicionando README.md ao projeto"
-   ```
